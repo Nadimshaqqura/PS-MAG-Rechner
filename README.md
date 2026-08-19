@@ -7,8 +7,7 @@ A lightweight Python GUI application built with **Tkinter** to streamline labora
 
 ## Key Features
 
-* **Intuitive Graphical Interface:** Built with Python's standard `tkinter` library for quick data entry and clear results display.
-* **Flexible Input Parsing:** Supports fractional inputs for cell surface coverage targets (e.g. entering `1/3` automatically calculates as $0.333$).
+
 * **Physical & Geometric Calculations:**
   * Computes cross-sectional areas of particles and experimental cells.
   * Estimates particle capacity assuming an optimal 2D packing fraction ($90\%$).
