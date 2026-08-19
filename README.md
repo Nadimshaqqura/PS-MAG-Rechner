@@ -13,7 +13,7 @@ A lightweight Python GUI application built with **Tkinter** to streamline labora
   * Estimates particle capacity assuming an optimal 2D packing fraction ($90\%$).
   * Calculates individual particle volume and mass from material density ($\text{g/cm}^3$).
   * Scales outputs according to concentration percentage ($\% w/v$) and injection volumes.
-* **Error Prevention:** Includes `try-except` validation blocks to handle invalid inputs gracefully.
+
 
 ## Mathematical Logic
 
